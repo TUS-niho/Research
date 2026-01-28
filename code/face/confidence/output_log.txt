@@ -1,0 +1,8939 @@
+------filtered_ID30.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID31.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID32.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID33.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID34.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID35.csvの処理------
+label
+answer1      6
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID36.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID37.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID38.csvの処理------
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID39.csvの処理------
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID40.csvの処理------
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID41.csvの処理------
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+------filtered_ID42.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID43.csvの処理------
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID44.csvの処理------
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID45.csvの処理------
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID46.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID47.csvの処理------
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID48.csvの処理------
+label
+answer1     26
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID49.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID50.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID51.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+------filtered_ID52.csvの処理------
+label
+answer2     27
+answer3     15
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID53.csvの処理------
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID54.csvの処理------
+label
+answer2     30
+answer3      6
+answer4     30
+answer6     22
+answer7     24
+answer8      7
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID55.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID56.csvの処理------
+label
+answer2     30
+answer3     18
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+------filtered_ID57.csvの処理------
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+------filtered_ID58.csvの処理------
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID59.csvの処理------
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID60.csvの処理------
+label
+answer1     30
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID61.csvの処理------
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID62.csvの処理------
+label
+answer1     10
+answer2     21
+answer3     26
+answer4     30
+answer5     30
+answer7     28
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID63.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+------filtered_ID64.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID65.csvの処理------
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     26
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID66.csvの処理------
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID67.csvの処理------
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID68.csvの処理------
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID69.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID70.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID71.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID72.csvの処理------
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     30
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID73.csvの処理------
+label
+answer1      7
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+------filtered_ID74.csvの処理------
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID75.csvの処理------
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID76.csvの処理------
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    30
+dtype: int64
+------filtered_ID77.csvの処理------
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID78.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID79.csvの処理------
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID80.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID81.csvの処理------
+label
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID82.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID83.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID84.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID85.csvの処理------
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID86.csvの処理------
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     10
+answer6     23
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID87.csvの処理------
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID88.csvの処理------
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID89.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID90.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+------filtered_ID91.csvの処理------
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID92.csvの処理------
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID93.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID94.csvの処理------
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+これは画面にも出るし、ファイルにも保存されます
+------filtered_ID30.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID31.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2      5
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID32.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID33.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID34.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID35.csvの処理------
+先頭30フレームを抽出
+label
+answer1     21
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID36.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID37.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID38.csvの処理------
+先頭30フレームを抽出
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID39.csvの処理------
+先頭30フレームを抽出
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID40.csvの処理------
+先頭30フレームを抽出
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID41.csvの処理------
+先頭30フレームを抽出
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     21
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+------filtered_ID42.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID43.csvの処理------
+先頭30フレームを抽出
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID44.csvの処理------
+先頭30フレームを抽出
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID45.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     25
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID46.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID47.csvの処理------
+先頭30フレームを抽出
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID48.csvの処理------これは画面にも出るし、ファイルにも保存されます
+------filtered_ID30.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID31.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2      5
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID32.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID33.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID34.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID35.csvの処理------
+先頭30フレームを抽出
+label
+answer1     21
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID36.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID37.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID38.csvの処理------
+先頭30フレームを抽出
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID39.csvの処理------
+先頭30フレームを抽出
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID40.csvの処理------
+先頭30フレームを抽出
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID41.csvの処理------
+先頭30フレームを抽出
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     21
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+------filtered_ID42.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID43.csvの処理------
+先頭30フレームを抽出
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID44.csvの処理------
+先頭30フレームを抽出
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID45.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     25
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID46.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID47.csvの処理------
+先頭30フレームを抽出
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID48.csvの処理------
+先頭30フレームを抽出
+label
+answer1     26
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     26
+answer2     28
+answer3     30
+answer4     30
+answer5     19
+answer6     22
+answer7     26
+answer8     17
+answer9     30
+answer10    18
+dtype: int64
+------filtered_ID49.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID50.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     23
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID51.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+------filtered_ID52.csvの処理------
+先頭30フレームを抽出
+label
+answer1     29
+answer2     30
+answer3     21
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     11
+answer3     15
+answer4     13
+answer7     28
+answer8     20
+answer9     25
+answer10    18
+dtype: int64
+------filtered_ID53.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID54.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3      7
+answer4     30
+answer6     24
+answer7     28
+answer8     12
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3      6
+answer4     28
+answer6     22
+answer7     24
+answer8      7
+answer9     26
+answer10    29
+dtype: int64
+------filtered_ID55.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     16
+answer6     30
+answer7     29
+answer8     28
+answer9      7
+answer10    30
+dtype: int64
+------filtered_ID56.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     29
+answer3     18
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+------filtered_ID57.csvの処理------
+先頭30フレームを抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+------filtered_ID58.csvの処理------
+先頭30フレームを抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID59.csvの処理------
+先頭30フレームを抽出
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     25
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9      3
+answer10    29
+dtype: int64
+------filtered_ID60.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     27
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID61.csvの処理------
+先頭30フレームを抽出
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID62.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     21
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     21
+answer3     26
+answer4     30
+answer5     29
+answer7     26
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID63.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+------filtered_ID64.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID65.csvの処理------
+先頭30フレームを抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     26
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     14
+answer2     29
+answer3     28
+answer4     26
+answer5     25
+answer6     30
+answer7     29
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID66.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID67.csvの処理------
+先頭30フレームを抽出
+label
+answer1     26
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     26
+answer2     28
+answer3     30
+answer4     30
+answer5     19
+answer6     22
+answer7     26
+answer8     17
+answer9     30
+answer10    18
+dtype: int64
+------filtered_ID49.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID50.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     23
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID51.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+------filtered_ID52.csvの処理------
+先頭30フレームを抽出
+label
+answer1     29
+answer2     30
+answer3     21
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     11
+answer3     15
+answer4     13
+answer7     28
+answer8     20
+answer9     25
+answer10    18
+dtype: int64
+------filtered_ID53.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID54.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3      7
+answer4     30
+answer6     24
+answer7     28
+answer8     12
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3      6
+answer4     28
+answer6     22
+answer7     24
+answer8      7
+answer9     26
+answer10    29
+dtype: int64
+------filtered_ID55.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     16
+answer6     30
+answer7     29
+answer8     28
+answer9      7
+answer10    30
+dtype: int64
+------filtered_ID56.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     29
+answer3     18
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+------filtered_ID57.csvの処理------
+先頭30フレームを抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+------filtered_ID58.csvの処理------
+先頭30フレームを抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID59.csvの処理------
+先頭30フレームを抽出
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     25
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9      3
+answer10    29
+dtype: int64
+------filtered_ID60.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     27
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID61.csvの処理------
+先頭30フレームを抽出
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID62.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     21
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     21
+answer3     26
+answer4     30
+answer5     29
+answer7     26
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID63.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+------filtered_ID64.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID65.csvの処理------
+先頭30フレームを抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     26
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     14
+answer2     29
+answer3     28
+answer4     26
+answer5     25
+answer6     30
+answer7     29
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID66.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID67.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID68.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID69.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID70.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     29
+answer2     30
+answer3     30
+answer4     30
+answer5     29
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID71.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID72.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     30
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     28
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID73.csvの処理------
+先頭30フレームを抽出
+label
+answer1      7
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      7
+answer2     29
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+------filtered_ID74.csvの処理------
+先頭30フレームを抽出
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID75.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID76.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    26
+dtype: int64
+------filtered_ID77.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID78.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID79.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID80.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     24
+answer4     30
+answer5     25
+answer6     24
+answer7     28
+answer8     27
+answer9     26
+answer10    26
+dtype: int64
+------filtered_ID81.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     24
+answer3     26
+answer5     28
+answer6     21
+answer7     24
+answer8     30
+answer9     30
+answer10    29
+dtype: int64
+------filtered_ID82.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID83.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     20
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     29
+answer10    27
+dtype: int64
+------filtered_ID84.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     27
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID85.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     28
+answer6     25
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID86.csvの処理------
+先頭30フレームを抽出
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     11
+answer6     27
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID68.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID69.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID70.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     29
+answer2     30
+answer3     30
+answer4     30
+answer5     29
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID71.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID72.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     30
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     28
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID73.csvの処理------
+先頭30フレームを抽出
+label
+answer1      7
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      7
+answer2     29
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+------filtered_ID74.csvの処理------
+先頭30フレームを抽出
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID75.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID76.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    26
+dtype: int64
+------filtered_ID77.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID78.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID79.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID80.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     24
+answer4     30
+answer5     25
+answer6     24
+answer7     28
+answer8     27
+answer9     26
+answer10    26
+dtype: int64
+------filtered_ID81.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     24
+answer3     26
+answer5     28
+answer6     21
+answer7     24
+answer8     30
+answer9     30
+answer10    29
+dtype: int64
+------filtered_ID82.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID83.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     20
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     29
+answer10    27
+dtype: int64
+------filtered_ID84.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     27
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID85.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     28
+answer6     25
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID86.csvの処理------
+先頭30フレームを抽出
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     11
+answer6     27
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     22
+answer3     19
+answer4     30
+answer5     10
+answer6     23
+answer7     24
+answer9     23
+answer10    26
+dtype: int64
+------filtered_ID87.csvの処理------
+先頭30フレームを抽出
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID88.csvの処理------
+先頭30フレームを抽出
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID89.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6      1
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID90.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2      6
+answer3     30
+answer4     30
+answer5     30
+answer6     29
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+------filtered_ID91.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID92.csvの処理------
+先頭30フレームを抽出
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID93.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID94.csvの処理------
+先頭30フレームを抽出
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+
+label
+answer2     22
+answer3     19
+answer4     30
+answer5     10
+answer6     23
+answer7     24
+answer9     23
+answer10    26
+dtype: int64
+------filtered_ID87.csvの処理------
+先頭30フレームを抽出
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID88.csvの処理------
+先頭30フレームを抽出
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID89.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6      1
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID90.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2      6
+answer3     30
+answer4     30
+answer5     30
+answer6     29
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+------filtered_ID91.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID92.csvの処理------
+先頭30フレームを抽出
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID93.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID94.csvの処理------
+先頭30フレームを抽出
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID30.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID31.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID32.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID33.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID34.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID35.csvの処理------
+label
+answer1      6
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID36.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID37.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID38.csvの処理------
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID39.csvの処理------
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID40.csvの処理------
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID41.csvの処理------
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+------filtered_ID42.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID43.csvの処理------
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID44.csvの処理------
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID45.csvの処理------
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID46.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID47.csvの処理------
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID48.csvの処理------
+label
+answer1     26
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID49.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID50.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID51.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+------filtered_ID52.csvの処理------
+label
+answer2     27
+answer3     15
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID53.csvの処理------
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID54.csvの処理------
+label
+answer2     30
+answer3      6
+answer4     30
+answer6     22
+answer7     24
+answer8      7
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID55.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID56.csvの処理------
+label
+answer2     30
+answer3     18
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+------filtered_ID57.csvの処理------
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+------filtered_ID58.csvの処理------
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID59.csvの処理------
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID60.csvの処理------
+label
+answer1     30
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID61.csvの処理------
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID62.csvの処理------
+label
+answer1     10
+answer2     21
+answer3     26
+answer4     30
+answer5     30
+answer7     28
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID63.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+------filtered_ID64.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID65.csvの処理------
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     26
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID66.csvの処理------
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID67.csvの処理------
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID68.csvの処理------
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID69.csvの処理------------filtered_ID30.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID31.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID32.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID33.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID34.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID35.csvの処理------
+label
+answer1      6
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID36.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID37.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID38.csvの処理------
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID39.csvの処理------
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID40.csvの処理------
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID41.csvの処理------
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+------filtered_ID42.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID43.csvの処理------
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID44.csvの処理------
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID45.csvの処理------
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID46.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID47.csvの処理------
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID48.csvの処理------
+label
+answer1     26
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID49.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID50.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID51.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+------filtered_ID52.csvの処理------
+label
+answer2     27
+answer3     15
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID53.csvの処理------
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID54.csvの処理------
+label
+answer2     30
+answer3      6
+answer4     30
+answer6     22
+answer7     24
+answer8      7
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID55.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID56.csvの処理------
+label
+answer2     30
+answer3     18
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+------filtered_ID57.csvの処理------
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+------filtered_ID58.csvの処理------
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID59.csvの処理------
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID60.csvの処理------
+label
+answer1     30
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID61.csvの処理------
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID62.csvの処理------
+label
+answer1     10
+answer2     21
+answer3     26
+answer4     30
+answer5     30
+answer7     28
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID63.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+------filtered_ID64.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID65.csvの処理------
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     26
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID66.csvの処理------
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID67.csvの処理------
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID68.csvの処理------
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID69.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID70.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID71.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID72.csvの処理------
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     30
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID73.csvの処理------
+label
+answer1      7
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+------filtered_ID74.csvの処理------
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID75.csvの処理------
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID76.csvの処理------
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    30
+dtype: int64
+------filtered_ID77.csvの処理------
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID78.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID79.csvの処理------
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID80.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID81.csvの処理------
+label
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID82.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID83.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID84.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID85.csvの処理------
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID86.csvの処理------
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     10
+answer6     23
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID87.csvの処理------
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID88.csvの処理------
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID89.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID90.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+------filtered_ID91.csvの処理------
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID92.csvの処理------
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID93.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID94.csvの処理------
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID70.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID71.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID72.csvの処理------
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     30
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID73.csvの処理------
+label
+answer1      7
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+------filtered_ID74.csvの処理------
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID75.csvの処理------
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID76.csvの処理------
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    30
+dtype: int64
+------filtered_ID77.csvの処理------
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID78.csvの処理------
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID79.csvの処理------
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID80.csvの処理------
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID81.csvの処理------
+label
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID82.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID83.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID84.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID85.csvの処理------
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID86.csvの処理------
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     10
+answer6     23
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID87.csvの処理------
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID88.csvの処理------
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID89.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID90.csvの処理------
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+------filtered_ID91.csvの処理------
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID92.csvの処理------
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID93.csvの処理------
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID94.csvの処理------
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+これは画面にも出るし、ファイルにも保存されます
+------filtered_ID30.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID31.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2      5
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID32.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID33.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID34.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID35.csvの処理------
+先頭30フレームを抽出
+label
+answer1     21
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID36.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID37.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID38.csvの処理------
+先頭30フレームを抽出
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID39.csvの処理------
+先頭30フレームを抽出
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID40.csvの処理------
+先頭30フレームを抽出
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID41.csvの処理------
+先頭30フレームを抽出
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     21
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+------filtered_ID42.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID43.csvの処理------
+先頭30フレームを抽出
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID44.csvの処理------
+先頭30フレームを抽出
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID45.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     25
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID46.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID47.csvの処理------
+先頭30フレームを抽出
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID48.csvの処理------これは画面にも出るし、ファイルにも保存されます
+------filtered_ID30.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID31.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2      5
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID32.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID33.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     29
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID34.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID35.csvの処理------
+先頭30フレームを抽出
+label
+answer1     21
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer4     28
+answer5     23
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID36.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID37.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID38.csvの処理------
+先頭30フレームを抽出
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     17
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID39.csvの処理------
+先頭30フレームを抽出
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     23
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID40.csvの処理------
+先頭30フレームを抽出
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      9
+answer2     29
+answer3     26
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     16
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID41.csvの処理------
+先頭30フレームを抽出
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     13
+answer2     30
+answer3     30
+answer4     21
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    22
+dtype: int64
+------filtered_ID42.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID43.csvの処理------
+先頭30フレームを抽出
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     25
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID44.csvの処理------
+先頭30フレームを抽出
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     28
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID45.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     20
+answer4     30
+answer5     30
+answer6     25
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID46.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     10
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID47.csvの処理------
+先頭30フレームを抽出
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     12
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID48.csvの処理------
+先頭30フレームを抽出
+label
+answer1     26
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     26
+answer2     28
+answer3     30
+answer4     30
+answer5     19
+answer6     22
+answer7     26
+answer8     17
+answer9     30
+answer10    18
+dtype: int64
+------filtered_ID49.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID50.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     23
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID51.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+------filtered_ID52.csvの処理------
+先頭30フレームを抽出
+label
+answer1     29
+answer2     30
+answer3     21
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     11
+answer3     15
+answer4     13
+answer7     28
+answer8     20
+answer9     25
+answer10    18
+dtype: int64
+------filtered_ID53.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID54.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3      7
+answer4     30
+answer6     24
+answer7     28
+answer8     12
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3      6
+answer4     28
+answer6     22
+answer7     24
+answer8      7
+answer9     26
+answer10    29
+dtype: int64
+------filtered_ID55.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     16
+answer6     30
+answer7     29
+answer8     28
+answer9      7
+answer10    30
+dtype: int64
+------filtered_ID56.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     29
+answer3     18
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+------filtered_ID57.csvの処理------
+先頭30フレームを抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+------filtered_ID58.csvの処理------
+先頭30フレームを抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID59.csvの処理------
+先頭30フレームを抽出
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     25
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9      3
+answer10    29
+dtype: int64
+------filtered_ID60.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     27
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID61.csvの処理------
+先頭30フレームを抽出
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID62.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     21
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     21
+answer3     26
+answer4     30
+answer5     29
+answer7     26
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID63.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+------filtered_ID64.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID65.csvの処理------
+先頭30フレームを抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     26
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     14
+answer2     29
+answer3     28
+answer4     26
+answer5     25
+answer6     30
+answer7     29
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID66.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID67.csvの処理------
+先頭30フレームを抽出
+label
+answer1     26
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     26
+answer2     28
+answer3     30
+answer4     30
+answer5     19
+answer6     22
+answer7     26
+answer8     17
+answer9     30
+answer10    18
+dtype: int64
+------filtered_ID49.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID50.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2     30
+answer3     15
+answer4     23
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID51.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer10    30
+dtype: int64
+------filtered_ID52.csvの処理------
+先頭30フレームを抽出
+label
+answer1     29
+answer2     30
+answer3     21
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     11
+answer3     15
+answer4     13
+answer7     28
+answer8     20
+answer9     25
+answer10    18
+dtype: int64
+------filtered_ID53.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID54.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3      7
+answer4     30
+answer6     24
+answer7     28
+answer8     12
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3      6
+answer4     28
+answer6     22
+answer7     24
+answer8      7
+answer9     26
+answer10    29
+dtype: int64
+------filtered_ID55.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer5     16
+answer6     30
+answer7     29
+answer8     28
+answer9      7
+answer10    30
+dtype: int64
+------filtered_ID56.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     29
+answer3     18
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     18
+answer10    30
+dtype: int64
+------filtered_ID57.csvの処理------
+先頭30フレームを抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     30
+answer5     10
+answer6     30
+answer7     30
+answer8      9
+answer9     24
+answer10    30
+dtype: int64
+------filtered_ID58.csvの処理------
+先頭30フレームを抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      6
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID59.csvの処理------
+先頭30フレームを抽出
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     20
+answer2     30
+answer3     30
+answer4     25
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9      3
+answer10    29
+dtype: int64
+------filtered_ID60.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     27
+answer2     23
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID61.csvの処理------
+先頭30フレームを抽出
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     24
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID62.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     21
+answer3     30
+answer4     30
+answer5     30
+answer7     30
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     21
+answer3     26
+answer4     30
+answer5     29
+answer7     26
+answer8     14
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID63.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     28
+answer4     30
+answer6     30
+answer7     30
+answer8     25
+answer9     28
+answer10    30
+dtype: int64
+------filtered_ID64.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID65.csvの処理------
+先頭30フレームを抽出
+label
+answer1     14
+answer2     30
+answer3     30
+answer4     26
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     14
+answer2     29
+answer3     28
+answer4     26
+answer5     25
+answer6     30
+answer7     29
+answer8     28
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID66.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     28
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID67.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID68.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID69.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID70.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     29
+answer2     30
+answer3     30
+answer4     30
+answer5     29
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID71.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID72.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     30
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     28
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID73.csvの処理------
+先頭30フレームを抽出
+label
+answer1      7
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      7
+answer2     29
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+------filtered_ID74.csvの処理------
+先頭30フレームを抽出
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID75.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID76.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    26
+dtype: int64
+------filtered_ID77.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID78.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID79.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID80.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     24
+answer4     30
+answer5     25
+answer6     24
+answer7     28
+answer8     27
+answer9     26
+answer10    26
+dtype: int64
+------filtered_ID81.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     24
+answer3     26
+answer5     28
+answer6     21
+answer7     24
+answer8     30
+answer9     30
+answer10    29
+dtype: int64
+------filtered_ID82.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID83.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     20
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     29
+answer10    27
+dtype: int64
+------filtered_ID84.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     27
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID85.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     28
+answer6     25
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID86.csvの処理------
+先頭30フレームを抽出
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     11
+answer6     27
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer6     18
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID68.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID69.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     23
+answer7     30
+answer8     20
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID70.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     29
+answer2     30
+answer3     30
+answer4     30
+answer5     29
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID71.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     28
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID72.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     30
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     27
+answer5     30
+answer6     30
+answer7     28
+answer8     24
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID73.csvの処理------
+先頭30フレームを抽出
+label
+answer1      7
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      7
+answer2     29
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     13
+answer10    30
+dtype: int64
+------filtered_ID74.csvの処理------
+先頭30フレームを抽出
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     27
+answer3     12
+answer4     30
+answer5     15
+answer6     30
+answer7     30
+answer8     17
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID75.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID76.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     22
+answer10    26
+dtype: int64
+------filtered_ID77.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer4     28
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID78.csvの処理------
+先頭30フレームを抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     30
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID79.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     17
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID80.csvの処理------
+先頭30フレームを抽出
+label
+answer1     11
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     11
+answer2     30
+answer3     24
+answer4     30
+answer5     25
+answer6     24
+answer7     28
+answer8     27
+answer9     26
+answer10    26
+dtype: int64
+------filtered_ID81.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     24
+answer3     26
+answer5     28
+answer6     21
+answer7     24
+answer8     30
+answer9     30
+answer10    29
+dtype: int64
+------filtered_ID82.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID83.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     20
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     29
+answer10    27
+dtype: int64
+------filtered_ID84.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     30
+answer4     27
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID85.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     22
+answer4     30
+answer5     28
+answer6     25
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID86.csvの処理------
+先頭30フレームを抽出
+label
+answer2     22
+answer3     30
+answer4     30
+answer5     11
+answer6     27
+answer7     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     22
+answer3     19
+answer4     30
+answer5     10
+answer6     23
+answer7     24
+answer9     23
+answer10    26
+dtype: int64
+------filtered_ID87.csvの処理------
+先頭30フレームを抽出
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID88.csvの処理------
+先頭30フレームを抽出
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID89.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6      1
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID90.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2      6
+answer3     30
+answer4     30
+answer5     30
+answer6     29
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+------filtered_ID91.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID92.csvの処理------
+先頭30フレームを抽出
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID93.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID94.csvの処理------
+先頭30フレームを抽出
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+
+label
+answer2     22
+answer3     19
+answer4     30
+answer5     10
+answer6     23
+answer7     24
+answer9     23
+answer10    26
+dtype: int64
+------filtered_ID87.csvの処理------
+先頭30フレームを抽出
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     21
+answer3      6
+answer4      8
+answer6     25
+answer7     30
+answer8     10
+answer9     23
+answer10    30
+dtype: int64
+------filtered_ID88.csvの処理------
+先頭30フレームを抽出
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      5
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID89.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     25
+answer4     30
+answer5     30
+answer6      1
+answer7     30
+answer9     27
+answer10    30
+dtype: int64
+------filtered_ID90.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2      6
+answer3     30
+answer4     30
+answer5     30
+answer6     29
+answer7     30
+answer8     30
+answer9     29
+answer10    30
+dtype: int64
+------filtered_ID91.csvの処理------
+先頭30フレームを抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer2     30
+answer3     19
+answer4     30
+answer5     13
+answer6     26
+answer7     30
+answer8      8
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID92.csvの処理------
+先頭30フレームを抽出
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1     10
+answer2     30
+answer3     30
+answer4     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID93.csvの処理------
+先頭30フレームを抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer1      8
+answer2     30
+answer3     30
+answer4     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+------filtered_ID94.csvの処理------
+先頭30フレームを抽出
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
+Confidence>=0.90を抽出
+label
+answer3     30
+answer5     30
+answer6     30
+answer7     30
+answer8     30
+answer9     30
+answer10    30
+dtype: int64
